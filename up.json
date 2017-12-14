@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "profile": "app", 
+  "regions": ["eu-west-2"],
+  "lambda": {
+    "memory": 1536
+  }, 
+  "env": "development"
+}
